@@ -51,5 +51,7 @@ Download Unbuntu ISO and creating a Ubuntu VM
 
 #### The Ununtu VM is now complete
 
+![image](https://github.com/GitSavior/Creating-Ubuntu-VM/assets/162067776/b0dadd98-f78c-470e-80f9-eef11c994d89)
+
 
 
